@@ -3,7 +3,7 @@ Hello and Welcome to the Asciitool
 For start please write this command on the terminal 
 
 ```console
- git clone <url>
+ git clone https://github.com/Ech012/AsciiTool.git
 ```
 After that please write
 ```console
