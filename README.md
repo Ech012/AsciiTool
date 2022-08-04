@@ -17,9 +17,13 @@ python3 -m pip install -r requirements.txt
 
 now change the cd
 ```console
+ cd Tool
+```
+now change the cd to the main Folder
+```console
  cd AsciiTool
 ```
-and to see all commands just type 
+ to see all commands just type 
 
 ```console
  python main.py --help
