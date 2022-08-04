@@ -12,7 +12,7 @@ After that please write
 in Linux 
 
 ```cnosole
-python3 -m pip install r requirements.txt
+python3 -m pip install -r requirements.txt
 ```
 
 now change the cd
