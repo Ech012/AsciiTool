@@ -1,2 +1,0 @@
-ascii_magic==1.6
-pyfiglet==0.8.post1
