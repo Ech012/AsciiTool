@@ -1,5 +1,5 @@
 """##########################
-    Txt to Ascii generator
+    Txt and Image to Ascii generator
     Developed by: $echo
     Credits: www.figlet.org
    ##########################""" 
