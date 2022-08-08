@@ -7,22 +7,22 @@ For start please write this command on the terminal
 ```
 After that please write
 ```console
- py -m pip install -r requirements.txt
+ cd Tool
+ ```
+ And then type:
+ ```console
+  cd AsciiTool
 ```
-in Linux 
+After that pleae type 
 
 ```cnosole
+py -m pip install -r requirements.txt
+```
+in Linux
+```console.
 python3 -m pip install -r requirements.txt
 ```
 
-now change the cd
-```console
- cd Tool
-```
-now change the cd to the main Folder
-```console
- cd AsciiTool
-```
  to see all commands just type 
 
 ```console
